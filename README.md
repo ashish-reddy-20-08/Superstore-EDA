@@ -5,3 +5,5 @@ In this project we will be performing EDA on the superstore data and we will dra
 
 - Data cleaning is one of the important parts of machine learning. It 
 plays a significant part in building a model. 
+-  It surely isn’t the fanciest part of machine learning and at the same 
+time, there aren’t any hidden tricks or secrets to uncover.
