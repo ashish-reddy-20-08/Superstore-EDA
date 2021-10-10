@@ -7,3 +7,5 @@ In this project we will be performing EDA on the superstore data and we will dra
 plays a significant part in building a model. 
 -  It surely isn’t the fanciest part of machine learning and at the same 
 time, there aren’t any hidden tricks or secrets to uncover.
+- However, the success or failure of a project relies on proper data 
+cleaning. 
