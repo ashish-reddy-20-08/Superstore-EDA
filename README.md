@@ -15,3 +15,4 @@ In this project we will be performing EDA on the superstore data and we will dra
 
 ## Removal of unwanted observations
 
+This includes deleting duplicate/ redundant or irrelevant values from your dataset. 
