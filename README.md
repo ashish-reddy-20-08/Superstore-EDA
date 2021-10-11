@@ -12,3 +12,6 @@ In this project we will be performing EDA on the superstore data and we will dra
 ## Steps involved in Data Cleaning: 
 
 ![image](https://user-images.githubusercontent.com/63282184/136796151-96b9df02-8c78-424c-8aff-7c464151296a.png)
+
+## Removal of unwanted observations
+
