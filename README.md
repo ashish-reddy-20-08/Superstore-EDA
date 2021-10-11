@@ -29,3 +29,5 @@ The errors that arise during measurement, transfer of data, or other similar sit
 Structural errors include typos in the name of features, the same attribute with a different name, mislabeled classes, i.e. separate classes that should really be the same, or inconsistent capitalization. 
 
 - For example, the model will treat America and America as different classes or values, though they represent the same value or red, yellow, and red-yellow as different classes or attributes, though one class can be included in the other two classes. 
+
+- So, these are some structural errors that make our model inefficient and give poor quality results. 
