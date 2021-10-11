@@ -20,3 +20,4 @@ This includes deleting duplicate/ redundant or irrelevant values from your datas
 Duplicate observations most frequently arise during data collection and Irrelevant observations are those that don’t actually fit the specific problem that you’re trying to solve. 
 
 - Redundant observations alter the efficiency by a great extent as the data repeats and may add towards the correct side or towards the incorrect side, thereby producing unfaithful results.
+- Irrelevant observations are any type of data that is of no use to us and can be removed directly.
