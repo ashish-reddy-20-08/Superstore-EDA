@@ -25,3 +25,5 @@ Duplicate observations most frequently arise during data collection and Irreleva
 ## Fixing Structural errors
 
 The errors that arise during measurement, transfer of data, or other similar situations are called structural errors.
+
+Structural errors include typos in the name of features, the same attribute with a different name, mislabeled classes, i.e. separate classes that should really be the same, or inconsistent capitalization. 
