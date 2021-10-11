@@ -24,3 +24,4 @@ Duplicate observations most frequently arise during data collection and Irreleva
 
 ## Fixing Structural errors
 
+The errors that arise during measurement, transfer of data, or other similar situations are called structural errors.
