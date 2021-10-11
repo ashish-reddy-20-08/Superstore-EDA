@@ -16,3 +16,5 @@ In this project we will be performing EDA on the superstore data and we will dra
 ## Removal of unwanted observations
 
 This includes deleting duplicate/ redundant or irrelevant values from your dataset. 
+
+Duplicate observations most frequently arise during data collection and Irrelevant observations are those that don’t actually fit the specific problem that you’re trying to solve. 
