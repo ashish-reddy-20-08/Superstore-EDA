@@ -44,6 +44,7 @@ Structural errors include typos in the name of features, the same attribute with
 - Missing data is a deceptively tricky issue in machine learning. 
 - We cannot just ignore or remove the missing observation. 
 -  They must be handled carefully as they can be an indication of something important.
+-  
 
 
 
