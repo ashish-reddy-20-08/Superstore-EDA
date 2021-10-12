@@ -34,3 +34,5 @@ Structural errors include typos in the name of features, the same attribute with
 - So, these are some structural errors that make our model inefficient and give poor quality results. 
 
 ## Managing Unwanted outliers 
+
+- Outliers can cause problems with certain types of models.
