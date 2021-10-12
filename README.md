@@ -36,3 +36,4 @@ Structural errors include typos in the name of features, the same attribute with
 ## Managing Unwanted outliers 
 
 - Outliers can cause problems with certain types of models.
+- For example, linear regression models are less robust to outliers than decision tree models. Generally, we should not remove outliers until we have a legitimate reason to remove them. 
