@@ -43,7 +43,7 @@ Structural errors include typos in the name of features, the same attribute with
 ## Handling missing data 
 - Missing data is a deceptively tricky issue in machine learning. 
 - We cannot just ignore or remove the missing observation. 
-
+- 
 
 
 
