@@ -38,3 +38,4 @@ Structural errors include typos in the name of features, the same attribute with
 - Outliers can cause problems with certain types of models.
 - For example, linear regression models are less robust to outliers than decision tree models. Generally, we should not remove outliers until we have a legitimate reason to remove them. 
 - Sometimes, removing them improves performance, sometimes not. 
+- So, one must have a good reason to remove the outlier, such as suspicious measurements that are unlikely to be part of real data.
