@@ -41,3 +41,4 @@ Structural errors include typos in the name of features, the same attribute with
 - So, one must have a good reason to remove the outlier, such as suspicious measurements that are unlikely to be part of real data.
 
 ## Handling missing data 
+- 
