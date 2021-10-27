@@ -22,7 +22,7 @@ Duplicate observations most frequently arise during data collection and Irreleva
 - Redundant observations alter the efficiency by a great extent as the data repeats and may add towards the correct side or towards the incorrect side, thereby producing unfaithful results.
 - Irrelevant observations are any type of data that is of no use to us and can be removed directly.
 
-## Fixing Structural errors
+## Fixing Structural error's:
 
 The errors that arise during measurement, transfer of data, or other similar situations are called structural errors.
 
