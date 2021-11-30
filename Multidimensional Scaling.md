@@ -43,8 +43,8 @@ The scaling produces a graph like the one below.
 
 ## Advantages and conclusion 
 
-One further advantage of multidimensional scaling is that ordinal scale level is sufficient for collecting data i.e. the exact value of the Objects' characteristics need not be known. The rank order is sufficient and this simplifies data collecting considerably.
+- One further advantage of multidimensional scaling is that ordinal scale level is sufficient for collecting data i.e. the exact value of the Objects' characteristics need not be known. The rank order is sufficient and this simplifies data collecting considerably.
 
-A multidimensional scale is best used in situations where there's a large amount of data organized in table form.
+- A multidimensional scale is best used in situations where there's a large amount of data organized in table form.
 
-The purpose of multidimensional scaling is to map the relative location of objects using data that show how the objects differ.
+- The purpose of multidimensional scaling is to map the relative location of objects using data that show how the objects differ.
