@@ -6,6 +6,11 @@ Scikit-learn (formerly scikits.learn and also known as sklearn) is a free softwa
 
 It features various classification, regression and clustering algorithms including support vector machines, random forests, gradient boosting, k-means and DBSCAN, and is designed to interoperate with the Python numerical and scientific libraries NumPy and SciPy. Scikit-learn is a NumFOCUS fiscally sponsored project
 
+![image](https://user-images.githubusercontent.com/63282184/144061277-5c5e7528-21d4-4fbf-bebf-2b257c756ce4.png)
+
+
+
+
 ## Loading The Data
 Your data needs to be numeric and stored as NumPy arrays or SciPy sparse matrices. Other types that are convertible to numeric arrays, such as Pandas DataFrame, are also acceptable.
 
